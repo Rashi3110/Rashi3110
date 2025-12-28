@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔦 I am currently working on GenAI + MERN stack<br>👀 Ask me about MERN stack + GenAI<br>🤼‍♀️ I want to collaborate for GSOC<br>🤖 How to reach me : rashiverma286@gmail.com<br>🗒️ Know about my experience :  https://www.linkedin.com/in/rashiverma286/<br>⚡️ Fun fact I read to sleep
+🔦 I am currently working at ServiceNow<br>👀 Ask me about MERN + GenAI<br>🤼‍♀️ I want to collaborate for GSOC<br>🤖 How to reach me : rashiverma286@gmail.com<br>🗒️ Know about my experience :  https://www.linkedin.com/in/rashiverma286/<br>⚡️ Fun fact I read to sleep
 
 
 ## 🌐 Socials:
